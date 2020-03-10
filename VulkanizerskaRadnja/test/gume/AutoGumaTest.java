@@ -5,7 +5,11 @@ import static org.junit.Assert.*;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
-
+/**
+ * Klasa koja vrsi testove nad klasom AutoGuma
+ * @author Lazar Popadic
+ *
+ */
 public class AutoGumaTest {
 
 	private AutoGuma ag1;
